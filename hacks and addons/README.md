@@ -1,51 +1,74 @@
-Files obtained from the "Hacks & Addons" section of the anpera.net forums.
+[Files](./files) obtained from the "Hacks & Addons" section of the anpera.net forums.
 
 All files were created for Legend of the Green Dragon 0.9.7 and are as such subject to the GPLv2. The full license text is provided the [COPYING.txt](./COPYING.txt) file in this folder.
 
-| File                             | Author            | URL                                                                 |
-|----------------------------------|-------------------|---------------------------------------------------------------------|
-| Alchemie.zip                     | Laserian          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5145           |
-| maktplatzbyopal1.0.rar           | Opal              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4087           |
-| Schattenreicherweiterung.zip     | Hecki             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=914            |
-| Berufs-Script.zip                | flash             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2450           |
-| newprivacy.php.zip               | ADT               | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5580           |
-| editor-meister.zip               | Shaddar           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5569           |
-| commentary-2.105-source.zip      | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2646           |
-| NPC-System-latin1.zip            | Auric             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4009           |
-| NPC-System-utf8.zip              | Auric             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4009           |
-| advent1.zip                      | Leen              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3138           |
-| advent2.zip                      | Leen              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3138           |
-| Weihnachtsspecial.zip            | Leen              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3138           |
-| vordenpalisaden.rar              | Taraen            | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2715           |
-| houses.rar                       | Chaosmaker        | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500           |
-| einkaufszentrum.zip              | Tidus             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500&start=120 |
-| houses_Morpheus.zip              | Morpheus          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500&start=160 |
-| vendor.rar                       | Morpheus          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500&start=180 |
-| gastzimmer.rar                   | Morpheus          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500&start=180 |
-| module_Morpheus.zip              | Morpheus          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500&start=200 |
-| RP Orte Version 1.2.1.zip        | Kamui             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3328           |
-| RP-Orte-Delete.zip               | Leen              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3328&start=20  |
-| tiere.rar                        | teruk             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1990           |
-| houses_children.rar              | -DoM, Anpera[1]   | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2291&start=140 |
-| kindersystem.rar                 | Morpheus, -DoM    | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2291&start=200 |
-| ki-sys(-DoM)Einbau_DSv2.5.zip    | Liath             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2291&start=200 |
-| gilden.zip                       | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1682           |
-| Geisterschloss.zip[2]            | Squall            | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5038           |
-| Dragonegg.zip                    | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5220           |
-| Gesinnung.rar                    | Horus             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2589           |
-| necron.zip                       | flash             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1415           |
-| _module_pack_.rar                | Meteora           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1501           |
-| zimmer.php                       | Auric             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2533           |
-| nwv-0.91.zip                     | Auric             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2533           |
-| ER Sourceansicht 3.0.zip         | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3369           |
-| ER-Sourceviewer 2007 v2.0.zip    | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3369           |
-| houselog_126.rar                 | MrEgo             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1536           |
-| Dracula.rar                      | Ray               | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2026           |
-| anheuer.zip                      | Horus             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5338           |
-| RPG-Level-System.rar (LotGD.rar) | Desperare_Luzifel | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3832           |
-| raceeditor.zip                   | Amerilion         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1625           |
-| pietre.zip                       | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1756           |
-| goldenesbuch.zip                 | The Grinch        | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5299           |
+| File                          | Author            | URL                                                                 |
+|-------------------------------|-------------------|---------------------------------------------------------------------|
+| Alchemie.zip                  | Laserian          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5145           |
+| maktplatzbyopal1.0.rar        | Opal              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4087           |
+| Schattenreicherweiterung.zip  | Hecki             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=914            |
+| Berufs-Script.zip             | flash             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2450           |
+| newprivacy.php.zip            | ADT               | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5580           |
+| editor-meister.zip            | Shaddar           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5569           |
+| commentary-2.105-source.zip   | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2646           |
+| NPC-System-latin1.zip         | Auric             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4009           |
+| NPC-System-utf8.zip           | Auric             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4009           |
+| advent1.zip                   | Leen              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3138           |
+| advent2.zip                   | Leen              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3138           |
+| Weihnachtsspecial.zip         | Leen              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3138           |
+| vordenpalisaden.rar           | Taraen            | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2715           |
+| houses.rar                    | Chaosmaker        | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500           |
+| einkaufszentrum.zip           | Tidus             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500&start=120 |
+| houses_Morpheus.zip           | Morpheus          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500&start=160 |
+| vendor.rar                    | Morpheus          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500&start=180 |
+| gastzimmer.rar                | Morpheus          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500&start=180 |
+| module_Morpheus.zip           | Morpheus          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1500&start=200 |
+| RP Orte Version 1.2.1.zip     | Kamui             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3328           |
+| RP-Orte-Delete.zip            | Leen              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3328&start=20  |
+| tiere.rar                     | teruk             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1990           |
+| houses_children.rar           | -DoM, Anpera      | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2291&start=140 |
+| kindersystem.rar              | Morpheus, -DoM    | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2291&start=200 |
+| ki-sys(-DoM)Einbau_DSv2.5.zip | Liath             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2291&start=200 |
+| gilden.zip                    | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1682           |
+| Geisterschloss.zip[2]         | Squall            | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5038           |
+| Dragonegg.zip                 | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5220           |
+| Gesinnung.rar                 | Horus             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2589           |
+| necron.zip                    | flash             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1415           |
+| _module_pack_.rar             | Meteora           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1501           |
+| zimmer.php                    | Auric             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2533           |
+| nwv-0.91.zip                  | Auric             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2533           |
+| ER Sourceansicht 3.0.zip      | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3369           |
+| ER-Sourceviewer 2007 v2.0.zip | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3369           |
+| houselog_126.rar              | MrEgo             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1536           |
+| Dracula.rar                   | Ray               | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2026           |
+| anheuer.zip                   | Horus             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5338           |
+| RPG-Level-System.rar [3]      | Desperare_Luzifel | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3832           |
+| raceeditor.zip                | Amerilion         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1625           |
+| pietre.zip                    | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1756           |
+| goldenesbuch.zip              | The Grinch        | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5299           |
+| treasury.tar.gz               | Voxdomini         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4301           |
+| tanzsaal-latin1.zip           | Auric             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1899           |
+| tanzsaal.zip                  | Auric             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1899           |
+| EInkaufszenrtum.rar           | Ray               | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2336           |
+| Dragonmind_V0.4.zip           | deZent            | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1355           |
+| baumhirten.rar                | -DoM              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2615           |
+| list.zip                      | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5122           |
+| list.rar                      | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5122           |
+| Turm der Elemente.rar         | Horus             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1913           |
+| selbstmord.rar                | Opal              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3191           |
+| petmod.zip                    | Chaosmaker        | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=790            |
+| weihnachten.zip               | Naria             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4163           |
+| halskette.rar                 | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5232           |
+| gotteskind.zip                | Lori              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5226           |
+| kerker.zip                    | Lazalantin        | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2047           |
+| check Mails.zip               | Anderswelt        | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5093           |
+| check_mail_Welv.zip [4]       | Welv              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5093           |
+| deutung.rar                   | Andarrius         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5128           |
+| deutung.zip                   | Andarrius         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5128           |
+| Erenya_Specials.zip [5]       | Erenya            | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=5207           |
 
-[1:] Posted by Calamita
+[1:] Just noting who posted the file. Please reference the thread or the archive contents for author(s) of the actual code.
 [2:] Original file name: "blubb.zip"
+[3:] Original file name: "LotGD.rar"
+[4:] Original file name: "check_mail.zip"
+[5:] Original file name: "Specials.zip"
