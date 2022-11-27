@@ -154,6 +154,30 @@ All files were created for Legend of the Green Dragon 0.9.7 and are as such subj
 | geistereiche.rar                   | BlackWarrior      | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2570           |
 | Waldevents+verifi.zip              | Rikkarda          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3847           |
 | Halloween-Addon.rar                | jahnlukas         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3010           |
+| source.zip                         | dragonslayer      | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3412           |
+| rassen.rar                         | Taikun14          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2712           |
+| biobackups.zip                     | Drazaar           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4252           |
+| The Cubeplayer.zip                 | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4214           |
+| The Cubeplayer.rar                 | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4214           |
+| templateedit.rar  [11]             | Meteora           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2284           |
+| templateedit.zip                   | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?p=43412#p43412        |
+| regatta.zip                        | n2code            | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4181           |
+| Hangman.rar                        | Sharielle         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1973           |
+| einbauanleitung.rar                | Rikkarda          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3148           |
+| motwd_bs_special.rar               | -DoM              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4122           |
+| losbude.rar                        | Dinarius          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4162           |
+| nicedragon.rar                     | Amerilion         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1440           |
+| wurf.zip                           | Morpheus          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2867           |
+| wege.rar                           | LotTR             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3839           |
+| bankrobber.rar                     | drakarr           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=977            |
+| Lesezimmer.zip                     | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2060           |
+| titles.zip                         | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3916           |
+| cruxis.zip                         | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1063           |
+| Feuermagie.zip                     | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3879           |
+| tictacto.rar                       | Sharielle         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1664           |
+| racegarden.rar                     | Ray               | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1741           |
+| Votesystem.rar                     | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4044           |
+
 
 * [1:] Just noting who posted the file. Please reference the thread or the archive contents for author(s) of the actual code.
 * [2:] Original file name: "blubb.zip"
@@ -165,3 +189,4 @@ All files were created for Legend of the Green Dragon 0.9.7 and are as such subj
 * [8:] Original file name: "freudenhaus.zip"
 * [9:] Original file name: "cache.rar", with attachment comment: "Anleitung für das txtfile Auslagerungssystem der outputs zum entlasten der Datenbank inkl. Sicherheitsfix per .htaccess"
 * [10:] Original file name: "kerker.zip"
+* [11:] Password is "gimme_some_more_addons"
