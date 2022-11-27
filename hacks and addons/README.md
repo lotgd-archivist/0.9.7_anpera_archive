@@ -135,6 +135,25 @@ All files were created for Legend of the Green Dragon 0.9.7 and are as such subj
 | free.zip                           | Drazaar           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3697           |
 | wasserfall.rar                     | vernisage         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4001           |
 | dorfschule.rar                     | Darkness          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1725           |
+| Bilder.rar                         | Leonora           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4128           |
+| mwald.rar                          | Leonora           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4128           |
+| Höllenrad.rar                      | Leen              | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3094           |
+| Häfen 0.9.7 +jt ext (GER) 3.zip    | Morpheus          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2609           |
+| rpschule.ace                       | Laserian          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3756           |
+| Anleitung_Klassen.txt.gz           | Eliwood           | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1313           |
+| schmiede.rar                       | leenchen          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2135           |
+| Einbauanleitungmessenger.rar       | Rikkarda          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4475           |
+| N2LoGD-exeonly.zip                 | n2code            | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4500           |
+| friedhof.rar                       | Gregor_Samsa      | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=1721           |
+| fast_nav_db.rar                    | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4423           |
+| fast_nav_db.zip                    | MySql             | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4423           |
+| ostern.zip                         | Laserian          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4425           |
+| wbb.zip                            | Spanky            | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4415           |
+| Händlerin.rar                      | Pater Nix Nutzius | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4406           |
+| wasserfall.zip                     | Alkatar91         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=4249           |
+| geistereiche.rar                   | BlackWarrior      | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=2570           |
+| Waldevents+verifi.zip              | Rikkarda          | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3847           |
+| Halloween-Addon.rar                | jahnlukas         | http://anpera.homeip.net/phpbb3/viewtopic.php?f=43&t=3010           |
 
 * [1:] Just noting who posted the file. Please reference the thread or the archive contents for author(s) of the actual code.
 * [2:] Original file name: "blubb.zip"
